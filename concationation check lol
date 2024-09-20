@@ -1,0 +1,37 @@
+# Tucker Donaldson
+# 9/20/24
+# concatenation check 
+
+
+#Task 1
+
+string_1 = ('Tucker Donaldson')
+
+print (string_1)
+
+string_2 = ('Valorant')
+
+print ('my name is ' + string_1 + ' and my favorite videogame is ' + string_2 )
+
+
+
+#Task 2
+
+string_11 =('The first thing I learned about concatenation is to be careful about naming the strings so they dont get mixed up ')
+
+string_22 = ('The second thing is to make sure to put spaced in the correct areas so they do not bunch up together')
+
+string_33 = ('its harder than strings ')
+
+print (string_11)
+print (string_22)
+print (string_33)
+
+#Task 3
+
+price = '25.99'
+
+place = 'target'
+
+
+print ('At ' + place + ' there is a sale for a desk at ' + price )
